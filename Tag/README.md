@@ -1,18 +1,3 @@
-## Getting Started
+## Chaos Tag
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Chaos tag is a group tag game where all players are simultaneously 'it'. When a player is tagged, they must sit down and cannot tag anyone. However, when a player is tagged, anyone they tagged is now back in the game and can tag others again. The game ends when a single person has tagged all the other players, or alternatively when a certain amount of time has passed.
